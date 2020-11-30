@@ -6,7 +6,7 @@ Not quite documented yet because the lack of time, recently I've been too busy b
 - [x] Week 2
 - [x] Week 3
 - [x] Week 4
-- [ ] Week 5
-- [ ] Week 6
+- [x] Week 5
+- [-] Week 6
 - [ ] Week 7
 - [ ] Week 8
